@@ -4,6 +4,8 @@ Ein Link auf [Lies mich](README.md) kommt hier.
 
 ZUm Weiterlesen:
 
-- https://nicolas-van.github.io/easy-markdown-to-github-pages/
-- [Github Markdown](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Markdown in Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
+- [Slate Theme](https://github.com/pages-themes/slate?tab=readme-ov-file)
+- [Github Markdown](https:/ /docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - https://pages.github.com/themes/
+

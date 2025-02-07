@@ -3,7 +3,7 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme 
-title: [The title of my site]
+title: [The title of my new site]
 description: [A short description of my site's purpose]
 relative_links:
   enabled: true
