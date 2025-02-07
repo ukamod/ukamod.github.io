@@ -1,2 +1,5 @@
 @import "{{ site.theme }}";
 
+#header_wrap {
+    background-color: cadetblue;
+}
