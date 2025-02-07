@@ -1,3 +1,3 @@
 # Index Hier <=
 
-Ein Link auf [[README]] kommt hier.
+Ein Link auf [Lies mich](README.md) kommt hier.
