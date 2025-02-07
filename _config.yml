@@ -1,6 +1,10 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/slate@v0.2.0
+# theme: jekyll-theme-minimal
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme 
+title: [The title of my site]
+description: [A short description of my site's purpose]
 relative_links:
   enabled: true
   collections: true
