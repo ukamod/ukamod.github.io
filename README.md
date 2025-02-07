@@ -1,7 +1,2 @@
-# Überschrift 1
-
-## Überschrift 2
-
-Test 1-2-3 äöüÄÖÜ? 
-ABC
-
+- Bearbeiten mit [vscode.dev](https://vscode.dev/github/ukamod/ukamod.github.io?vscode-lang=de-de)
+- Commit veröffentlich auf [Github Pages](https://ukamod.github.io/)
