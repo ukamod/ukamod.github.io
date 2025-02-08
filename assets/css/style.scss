@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+#header_wrap {
+  background-color: teal;
+}
+
+
 a {
   color: #3300ff;
 }
