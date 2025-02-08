@@ -1,4 +1,4 @@
-# Index Hier <=
+# Wie publiziert man eine Webseite mit Github Pages und Codespaces ?
 
 Zum Weiterlesen:
 
